@@ -1,0 +1,3 @@
+/Users/satyamsinghxx/Desktop/multithreaded-webserver/build/CMakeFiles/MultithreadedServer.dir
+/Users/satyamsinghxx/Desktop/multithreaded-webserver/build/CMakeFiles/edit_cache.dir
+/Users/satyamsinghxx/Desktop/multithreaded-webserver/build/CMakeFiles/rebuild_cache.dir
